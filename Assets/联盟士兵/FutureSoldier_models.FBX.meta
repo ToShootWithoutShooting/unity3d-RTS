@@ -1,0 +1,1290 @@
+fileFormatVersion: 2
+guid: 0afb278c92dfa29499bbb251d4f316ad
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Dummy002
+    100002: MachineGun_01
+    100004: Soldier
+    100006: Soldier_chin
+    100008: Soldier_Head
+    100010: Soldier_LArm
+    100012: Soldier_LArm1
+    100014: Soldier_LArm2
+    100016: Soldier_LArmCollarbone
+    100018: Soldier_LArmPalm
+    100020: Soldier_LEye
+    100022: Soldier_LEyeLid
+    100024: Soldier_LFinger1_00
+    100026: Soldier_LFinger1_01
+    100028: Soldier_LFinger1_02
+    100030: Soldier_LFinger1_03
+    100032: Soldier_LFinger2_00
+    100034: Soldier_LFinger2_01
+    100036: Soldier_LFinger2_02
+    100038: Soldier_LFinger2_03
+    100040: Soldier_LLeg1
+    100042: Soldier_LLeg2
+    100044: Soldier_LLegAnkle
+    100046: Soldier_LLegDigit11
+    100048: Soldier_LLegDigit12
+    100050: Soldier_LLegPlatform
+    100052: Soldier_LMouth
+    100054: Soldier_LThumb1
+    100056: Soldier_LThumb2
+    100058: Soldier_LUpFace
+    100060: //RootNode
+    100062: Soldier_Pelvis
+    100064: Soldier_RArm1
+    100066: Soldier_RArm2
+    100068: Soldier_RArmCollarbone
+    100070: Soldier_RArmIKTarget
+    100072: Soldier_RArmPalm
+    100074: Soldier_REye
+    100076: Soldier_REyeLid
+    100078: Soldier_RFinger1_00
+    100080: Soldier_RFinger1_01
+    100082: Soldier_RFinger1_02
+    100084: Soldier_RFinger1_03
+    100086: Soldier_RFinger2_00
+    100088: Soldier_RFinger2_01
+    100090: Soldier_RFinger2_02
+    100092: Soldier_RFinger2_03
+    100094: Soldier_RLeg1
+    100096: Soldier_RLeg2
+    100098: Soldier_RLegAnkle
+    100100: Soldier_RLegDigit11
+    100102: Soldier_RLegDigit12
+    100104: Soldier_RLegPlatform
+    100106: Soldier_RMouth
+    100108: Soldier_root
+    100110: Soldier_RThumb1
+    100112: Soldier_RThumb2
+    100114: Soldier_RUpFace
+    100116: Soldier_Spine
+    100118: Soldier_Spine1
+    100120: Soldier_Spine2
+    100122: Soldier_Spine3
+    100124: WeaponBone
+    100126: WeaponBone001
+    100128: WeaponBone002
+    100130: WeaponRoot
+    100132: Dummy001
+    100134: LEye_Point
+    100136: REye_Point
+    100138: Soldier_
+    100140: MachineGun_root
+    100142: FutureSoldier_
+    100144: FutureSoldier_CATRigHead
+    100146: FutureSoldier_CATSpine4
+    100148: FutureSoldier_LArm
+    100150: FutureSoldier_LArm1
+    100152: FutureSoldier_LArm2
+    100154: FutureSoldier_LArmCollarbone
+    100156: FutureSoldier_LArmPalm
+    100158: FutureSoldier_LLeg1
+    100160: FutureSoldier_LLeg2
+    100162: FutureSoldier_LLegAnkle
+    100164: FutureSoldier_LLegDigit11
+    100166: FutureSoldier_LLegDigit12
+    100168: FutureSoldier_LLegPlatform
+    100170: FutureSoldier_LP
+    100172: FutureSoldier_PalmBone001
+    100174: FutureSoldier_PalmBone001 1
+    100176: FutureSoldier_PalmBone001 2
+    100178: FutureSoldier_PalmBone001 3
+    100180: FutureSoldier_PalmBone001 4
+    100182: FutureSoldier_PalmBone001 5
+    100184: FutureSoldier_PalmBone001 6
+    100186: FutureSoldier_PalmBone001 7
+    100188: FutureSoldier_PalmBone001 8
+    100190: FutureSoldier_PalmBone001 9
+    100192: FutureSoldier_PalmBone001Bone001
+    100194: FutureSoldier_PalmBone001Bone001 1
+    100196: FutureSoldier_PalmBone001Bone001 2
+    100198: FutureSoldier_PalmBone001Bone001 3
+    100200: FutureSoldier_PalmBone001Bone001 4
+    100202: FutureSoldier_PalmBone001Bone001 5
+    100204: FutureSoldier_PalmBone001Bone001 6
+    100206: FutureSoldier_PalmBone001Bone001 7
+    100208: FutureSoldier_PalmBone001Bone001 8
+    100210: FutureSoldier_PalmBone001Bone001 9
+    100212: FutureSoldier_Pelvis
+    100214: FutureSoldier_RArm1
+    100216: FutureSoldier_RArm2
+    100218: FutureSoldier_RArmCollarbone
+    100220: FutureSoldier_RArmIKTarget
+    100222: FutureSoldier_RArmPalm
+    100224: FutureSoldier_RLeg1
+    100226: FutureSoldier_RLeg2
+    100228: FutureSoldier_RLegAnkle
+    100230: FutureSoldier_RLegDigit11
+    100232: FutureSoldier_RLegDigit12
+    100234: FutureSoldier_RLegPlatform
+    100236: FutureSoldier_Spine
+    100238: FutureSoldier_Spine 1
+    100240: PulseGun
+    100242: WeaponMainRoot
+    100244: VRaySun001.Target
+    100246: FutureSoldierCATRigHead
+    100248: FutureSoldierCATSpine4
+    100250: FutureSoldierLArm
+    100252: FutureSoldierLArm1
+    100254: FutureSoldierLArm2
+    100256: FutureSoldierLArmCollarbone
+    100258: FutureSoldierLArmPalm
+    100260: FutureSoldierLLeg1
+    100262: FutureSoldierLLeg2
+    100264: FutureSoldierLLegAnkle
+    100266: FutureSoldierLLegDigit11
+    100268: FutureSoldierLLegDigit12
+    100270: FutureSoldierLLegPlatform
+    100272: FutureSoldierPalmBone001
+    100274: FutureSoldierPalmBone001 1
+    100276: FutureSoldierPalmBone001 2
+    100278: FutureSoldierPalmBone001 3
+    100280: FutureSoldierPalmBone001 4
+    100282: FutureSoldierPalmBone001 5
+    100284: FutureSoldierPalmBone001 6
+    100286: FutureSoldierPalmBone001 7
+    100288: FutureSoldierPalmBone001 8
+    100290: FutureSoldierPalmBone001 9
+    100292: FutureSoldierPalmBone001Bone001
+    100294: FutureSoldierPalmBone001Bone001 1
+    100296: FutureSoldierPalmBone001Bone001 2
+    100298: FutureSoldierPalmBone001Bone001 3
+    100300: FutureSoldierPalmBone001Bone001 4
+    100302: FutureSoldierPalmBone001Bone001 5
+    100304: FutureSoldierPalmBone001Bone001 6
+    100306: FutureSoldierPalmBone001Bone001 7
+    100308: FutureSoldierPalmBone001Bone001 8
+    100310: FutureSoldierPalmBone001Bone001 9
+    100312: FutureSoldierPelvis
+    100314: FutureSoldierRArm1
+    100316: FutureSoldierRArm2
+    100318: FutureSoldierRArmCollarbone
+    100320: FutureSoldierRArmIKTarget
+    100322: FutureSoldierRArmPalm
+    100324: FutureSoldierRLeg1
+    100326: FutureSoldierRLeg2
+    100328: FutureSoldierRLegAnkle
+    100330: FutureSoldierRLegDigit11
+    100332: FutureSoldierRLegDigit12
+    100334: FutureSoldierRLegPlatform
+    100336: FutureSoldierSpine
+    100338: FutureSoldierSpine 1
+    100340: FutureSoldier_LFinger1_00
+    100342: FutureSoldier_LFinger1_01
+    100344: FutureSoldier_LFinger1_02
+    100346: FutureSoldier_LFinger1_03
+    100348: FutureSoldier_LFinger2_00
+    100350: FutureSoldier_LFinger2_01
+    100352: FutureSoldier_LFinger2_02
+    100354: FutureSoldier_LFinger2_03
+    100356: FutureSoldier_LThumb1
+    100358: FutureSoldier_LThumb2
+    100360: FutureSoldier_RFinger1_00
+    100362: FutureSoldier_RFinger1_01
+    100364: FutureSoldier_RFinger1_02
+    100366: FutureSoldier_RFinger1_03
+    100368: FutureSoldier_RFinger2_00
+    100370: FutureSoldier_RFinger2_01
+    100372: FutureSoldier_RFinger2_02
+    100374: FutureSoldier_RFinger2_03
+    100376: FutureSoldier_RThumb1
+    100378: FutureSoldier_RThumb2
+    400000: Dummy002
+    400002: MachineGun_01
+    400004: Soldier
+    400006: Soldier_chin
+    400008: Soldier_Head
+    400010: Soldier_LArm
+    400012: Soldier_LArm1
+    400014: Soldier_LArm2
+    400016: Soldier_LArmCollarbone
+    400018: Soldier_LArmPalm
+    400020: Soldier_LEye
+    400022: Soldier_LEyeLid
+    400024: Soldier_LFinger1_00
+    400026: Soldier_LFinger1_01
+    400028: Soldier_LFinger1_02
+    400030: Soldier_LFinger1_03
+    400032: Soldier_LFinger2_00
+    400034: Soldier_LFinger2_01
+    400036: Soldier_LFinger2_02
+    400038: Soldier_LFinger2_03
+    400040: Soldier_LLeg1
+    400042: Soldier_LLeg2
+    400044: Soldier_LLegAnkle
+    400046: Soldier_LLegDigit11
+    400048: Soldier_LLegDigit12
+    400050: Soldier_LLegPlatform
+    400052: Soldier_LMouth
+    400054: Soldier_LThumb1
+    400056: Soldier_LThumb2
+    400058: Soldier_LUpFace
+    400060: //RootNode
+    400062: Soldier_Pelvis
+    400064: Soldier_RArm1
+    400066: Soldier_RArm2
+    400068: Soldier_RArmCollarbone
+    400070: Soldier_RArmIKTarget
+    400072: Soldier_RArmPalm
+    400074: Soldier_REye
+    400076: Soldier_REyeLid
+    400078: Soldier_RFinger1_00
+    400080: Soldier_RFinger1_01
+    400082: Soldier_RFinger1_02
+    400084: Soldier_RFinger1_03
+    400086: Soldier_RFinger2_00
+    400088: Soldier_RFinger2_01
+    400090: Soldier_RFinger2_02
+    400092: Soldier_RFinger2_03
+    400094: Soldier_RLeg1
+    400096: Soldier_RLeg2
+    400098: Soldier_RLegAnkle
+    400100: Soldier_RLegDigit11
+    400102: Soldier_RLegDigit12
+    400104: Soldier_RLegPlatform
+    400106: Soldier_RMouth
+    400108: Soldier_root
+    400110: Soldier_RThumb1
+    400112: Soldier_RThumb2
+    400114: Soldier_RUpFace
+    400116: Soldier_Spine
+    400118: Soldier_Spine1
+    400120: Soldier_Spine2
+    400122: Soldier_Spine3
+    400124: WeaponBone
+    400126: WeaponBone001
+    400128: WeaponBone002
+    400130: WeaponRoot
+    400132: Dummy001
+    400134: LEye_Point
+    400136: REye_Point
+    400138: Soldier_
+    400140: MachineGun_root
+    400142: FutureSoldier_
+    400144: FutureSoldier_CATRigHead
+    400146: FutureSoldier_CATSpine4
+    400148: FutureSoldier_LArm
+    400150: FutureSoldier_LArm1
+    400152: FutureSoldier_LArm2
+    400154: FutureSoldier_LArmCollarbone
+    400156: FutureSoldier_LArmPalm
+    400158: FutureSoldier_LLeg1
+    400160: FutureSoldier_LLeg2
+    400162: FutureSoldier_LLegAnkle
+    400164: FutureSoldier_LLegDigit11
+    400166: FutureSoldier_LLegDigit12
+    400168: FutureSoldier_LLegPlatform
+    400170: FutureSoldier_LP
+    400172: FutureSoldier_PalmBone001
+    400174: FutureSoldier_PalmBone001 1
+    400176: FutureSoldier_PalmBone001 2
+    400178: FutureSoldier_PalmBone001 3
+    400180: FutureSoldier_PalmBone001 4
+    400182: FutureSoldier_PalmBone001 5
+    400184: FutureSoldier_PalmBone001 6
+    400186: FutureSoldier_PalmBone001 7
+    400188: FutureSoldier_PalmBone001 8
+    400190: FutureSoldier_PalmBone001 9
+    400192: FutureSoldier_PalmBone001Bone001
+    400194: FutureSoldier_PalmBone001Bone001 1
+    400196: FutureSoldier_PalmBone001Bone001 2
+    400198: FutureSoldier_PalmBone001Bone001 3
+    400200: FutureSoldier_PalmBone001Bone001 4
+    400202: FutureSoldier_PalmBone001Bone001 5
+    400204: FutureSoldier_PalmBone001Bone001 6
+    400206: FutureSoldier_PalmBone001Bone001 7
+    400208: FutureSoldier_PalmBone001Bone001 8
+    400210: FutureSoldier_PalmBone001Bone001 9
+    400212: FutureSoldier_Pelvis
+    400214: FutureSoldier_RArm1
+    400216: FutureSoldier_RArm2
+    400218: FutureSoldier_RArmCollarbone
+    400220: FutureSoldier_RArmIKTarget
+    400222: FutureSoldier_RArmPalm
+    400224: FutureSoldier_RLeg1
+    400226: FutureSoldier_RLeg2
+    400228: FutureSoldier_RLegAnkle
+    400230: FutureSoldier_RLegDigit11
+    400232: FutureSoldier_RLegDigit12
+    400234: FutureSoldier_RLegPlatform
+    400236: FutureSoldier_Spine
+    400238: FutureSoldier_Spine 1
+    400240: PulseGun
+    400242: WeaponMainRoot
+    400244: VRaySun001.Target
+    400246: FutureSoldierCATRigHead
+    400248: FutureSoldierCATSpine4
+    400250: FutureSoldierLArm
+    400252: FutureSoldierLArm1
+    400254: FutureSoldierLArm2
+    400256: FutureSoldierLArmCollarbone
+    400258: FutureSoldierLArmPalm
+    400260: FutureSoldierLLeg1
+    400262: FutureSoldierLLeg2
+    400264: FutureSoldierLLegAnkle
+    400266: FutureSoldierLLegDigit11
+    400268: FutureSoldierLLegDigit12
+    400270: FutureSoldierLLegPlatform
+    400272: FutureSoldierPalmBone001
+    400274: FutureSoldierPalmBone001 1
+    400276: FutureSoldierPalmBone001 2
+    400278: FutureSoldierPalmBone001 3
+    400280: FutureSoldierPalmBone001 4
+    400282: FutureSoldierPalmBone001 5
+    400284: FutureSoldierPalmBone001 6
+    400286: FutureSoldierPalmBone001 7
+    400288: FutureSoldierPalmBone001 8
+    400290: FutureSoldierPalmBone001 9
+    400292: FutureSoldierPalmBone001Bone001
+    400294: FutureSoldierPalmBone001Bone001 1
+    400296: FutureSoldierPalmBone001Bone001 2
+    400298: FutureSoldierPalmBone001Bone001 3
+    400300: FutureSoldierPalmBone001Bone001 4
+    400302: FutureSoldierPalmBone001Bone001 5
+    400304: FutureSoldierPalmBone001Bone001 6
+    400306: FutureSoldierPalmBone001Bone001 7
+    400308: FutureSoldierPalmBone001Bone001 8
+    400310: FutureSoldierPalmBone001Bone001 9
+    400312: FutureSoldierPelvis
+    400314: FutureSoldierRArm1
+    400316: FutureSoldierRArm2
+    400318: FutureSoldierRArmCollarbone
+    400320: FutureSoldierRArmIKTarget
+    400322: FutureSoldierRArmPalm
+    400324: FutureSoldierRLeg1
+    400326: FutureSoldierRLeg2
+    400328: FutureSoldierRLegAnkle
+    400330: FutureSoldierRLegDigit11
+    400332: FutureSoldierRLegDigit12
+    400334: FutureSoldierRLegPlatform
+    400336: FutureSoldierSpine
+    400338: FutureSoldierSpine 1
+    400340: FutureSoldier_LFinger1_00
+    400342: FutureSoldier_LFinger1_01
+    400344: FutureSoldier_LFinger1_02
+    400346: FutureSoldier_LFinger1_03
+    400348: FutureSoldier_LFinger2_00
+    400350: FutureSoldier_LFinger2_01
+    400352: FutureSoldier_LFinger2_02
+    400354: FutureSoldier_LFinger2_03
+    400356: FutureSoldier_LThumb1
+    400358: FutureSoldier_LThumb2
+    400360: FutureSoldier_RFinger1_00
+    400362: FutureSoldier_RFinger1_01
+    400364: FutureSoldier_RFinger1_02
+    400366: FutureSoldier_RFinger1_03
+    400368: FutureSoldier_RFinger2_00
+    400370: FutureSoldier_RFinger2_01
+    400372: FutureSoldier_RFinger2_02
+    400374: FutureSoldier_RFinger2_03
+    400376: FutureSoldier_RThumb1
+    400378: FutureSoldier_RThumb2
+    2300000: Soldier_Head
+    2300002: Soldier_LArm1
+    2300004: Soldier_LArm2
+    2300006: Soldier_LArmCollarbone
+    2300008: Soldier_LArmPalm
+    2300010: Soldier_LFinger1_00
+    2300012: Soldier_LFinger1_01
+    2300014: Soldier_LFinger1_02
+    2300016: Soldier_LFinger1_03
+    2300018: Soldier_LFinger2_00
+    2300020: Soldier_LFinger2_01
+    2300022: Soldier_LFinger2_02
+    2300024: Soldier_LFinger2_03
+    2300026: Soldier_LLeg1
+    2300028: Soldier_LLeg2
+    2300030: Soldier_LLegAnkle
+    2300032: Soldier_LLegDigit11
+    2300034: Soldier_LLegDigit12
+    2300036: Soldier_LThumb1
+    2300038: Soldier_LThumb2
+    2300040: Soldier_RArm1
+    2300042: Soldier_RArm2
+    2300044: Soldier_RArmCollarbone
+    2300046: Soldier_RArmPalm
+    2300048: Soldier_RFinger1_00
+    2300050: Soldier_RFinger1_01
+    2300052: Soldier_RFinger1_02
+    2300054: Soldier_RFinger1_03
+    2300056: Soldier_RFinger2_00
+    2300058: Soldier_RFinger2_01
+    2300060: Soldier_RFinger2_02
+    2300062: Soldier_RFinger2_03
+    2300064: Soldier_RLeg1
+    2300066: Soldier_RLeg2
+    2300068: Soldier_RLegAnkle
+    2300070: Soldier_RLegDigit11
+    2300072: Soldier_RLegDigit12
+    2300074: Soldier_RThumb1
+    2300076: Soldier_RThumb2
+    2300078: Soldier_Spine
+    2300080: Soldier_Spine1
+    2300082: Soldier_Spine2
+    2300084: Soldier_Spine3
+    2300086: MachineGun_01
+    3300000: Soldier_Head
+    3300002: Soldier_LArm1
+    3300004: Soldier_LArm2
+    3300006: Soldier_LArmCollarbone
+    3300008: Soldier_LArmPalm
+    3300010: Soldier_LFinger1_00
+    3300012: Soldier_LFinger1_01
+    3300014: Soldier_LFinger1_02
+    3300016: Soldier_LFinger1_03
+    3300018: Soldier_LFinger2_00
+    3300020: Soldier_LFinger2_01
+    3300022: Soldier_LFinger2_02
+    3300024: Soldier_LFinger2_03
+    3300026: Soldier_LLeg1
+    3300028: Soldier_LLeg2
+    3300030: Soldier_LLegAnkle
+    3300032: Soldier_LLegDigit11
+    3300034: Soldier_LLegDigit12
+    3300036: Soldier_LThumb1
+    3300038: Soldier_LThumb2
+    3300040: Soldier_RArm1
+    3300042: Soldier_RArm2
+    3300044: Soldier_RArmCollarbone
+    3300046: Soldier_RArmPalm
+    3300048: Soldier_RFinger1_00
+    3300050: Soldier_RFinger1_01
+    3300052: Soldier_RFinger1_02
+    3300054: Soldier_RFinger1_03
+    3300056: Soldier_RFinger2_00
+    3300058: Soldier_RFinger2_01
+    3300060: Soldier_RFinger2_02
+    3300062: Soldier_RFinger2_03
+    3300064: Soldier_RLeg1
+    3300066: Soldier_RLeg2
+    3300068: Soldier_RLegAnkle
+    3300070: Soldier_RLegDigit11
+    3300072: Soldier_RLegDigit12
+    3300074: Soldier_RThumb1
+    3300076: Soldier_RThumb2
+    3300078: Soldier_Spine
+    3300080: Soldier_Spine1
+    3300082: Soldier_Spine2
+    3300084: Soldier_Spine3
+    3300086: MachineGun_01
+    4300000: Soldier
+    4300002: Soldier_RLeg1
+    4300004: Soldier_RLeg2
+    4300006: Soldier_RLegAnkle
+    4300008: Soldier_RLegDigit11
+    4300010: Soldier_RLegDigit12
+    4300012: Soldier_Spine1
+    4300014: Soldier_Spine2
+    4300016: Soldier_Spine3
+    4300018: Soldier_Spine
+    4300020: Soldier_Head
+    4300022: Soldier_RArmCollarbone
+    4300024: Soldier_RArm1
+    4300026: Soldier_RArm2
+    4300028: Soldier_RArmPalm
+    4300030: Soldier_RFinger1_00
+    4300032: Soldier_RFinger2_00
+    4300034: Soldier_RFinger1_01
+    4300036: Soldier_RFinger2_01
+    4300038: Soldier_RFinger1_02
+    4300040: Soldier_RFinger2_02
+    4300042: Soldier_RFinger1_03
+    4300044: Soldier_RFinger2_03
+    4300046: Soldier_RThumb1
+    4300048: Soldier_RThumb2
+    4300050: Soldier_LArmCollarbone
+    4300052: Soldier_LArm1
+    4300054: Soldier_LArm2
+    4300056: Soldier_LArmPalm
+    4300058: Soldier_LFinger1_02
+    4300060: Soldier_LFinger2_03
+    4300062: Soldier_LFinger1_00
+    4300064: Soldier_LFinger2_00
+    4300066: Soldier_LFinger1_01
+    4300068: Soldier_LFinger2_01
+    4300070: Soldier_LFinger1_03
+    4300072: Soldier_LFinger2_02
+    4300074: Soldier_LThumb1
+    4300076: Soldier_LThumb2
+    4300078: Soldier_LLeg1
+    4300080: Soldier_LLeg2
+    4300082: Soldier_LLegAnkle
+    4300084: Soldier_LLegDigit11
+    4300086: Soldier_LLegDigit12
+    4300088: MachineGun_01
+    4300090: FutureSoldier_LP
+    4300092: PulseGun
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: MachineGun_01
+    13700002: Soldier
+    13700004: FutureSoldier_LP
+    13700006: PulseGun
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Soldier_Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LLeg1
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RLeg1
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LLeg2
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RLeg2
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LLegAnkle
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RLegAnkle
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_Spine
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LArmCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RArmCollarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LArm1
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RArm1
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LArm2
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RArm2
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LArmPalm
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RArmPalm
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LLegDigit11
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_REye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RUpFace
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LFinger1_02
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LFinger2_03
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LFinger1_00
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LFinger2_00
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LFinger1_01
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LFinger2_01
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LFinger1_03
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_LFinger2_02
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RFinger1_03
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RFinger2_03
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RFinger1_02
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RFinger2_02
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RFinger1_01
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RFinger2_01
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RFinger1_00
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RFinger2_00
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier_RLegDigit11
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Soldier_mecanim(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dummy001
+      parentName: 
+      position: {x: 0, y: 0.6777783, z: 1.579649}
+      rotation: {x: 0.0000004660532, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: LEye_Point
+      parentName: 
+      position: {x: -0.08, y: -0.00049705507, z: -0.0049194335}
+      rotation: {x: -2.842171e-14, y: 1.6653356e-16, z: 4.7331684e-30, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: REye_Point
+      parentName: 
+      position: {x: 0.08, y: -0.00049705507, z: -0.0049192808}
+      rotation: {x: -2.842171e-14, y: 1.6653356e-16, z: 4.7331684e-30, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Soldier_
+      parentName: 
+      position: {x: 0.006564103, y: 0, z: 0}
+      rotation: {x: 0.49999994, y: -0.49999994, z: -0.50000006, w: 0.50000006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Soldier_LLegPlatform
+      parentName: 
+      position: {x: -0.08072435, y: 0.044654064, z: 0.10314049}
+      rotation: {x: 0.39228314, y: -0.54326165, z: -0.3176648, w: 0.67087245}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: Soldier_Pelvis
+      parentName: 
+      position: {x: -0.000011980999, y: 0.20913441, z: 0.0033034459}
+      rotation: {x: 0.5607265, y: -0.5208728, z: -0.47805178, w: 0.43098006}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Dummy002
+      parentName: 
+      position: {x: -0.10863504, y: 0.19604652, z: 0.00093546987}
+      rotation: {x: -0.5219764, y: 0.6936624, z: 0.37668487, w: 0.3232361}
+      scale: {x: 1.0000004, y: 0.9999999, z: 0.99999976}
+    - name: Soldier_LArm
+      parentName: 
+      position: {x: -0.12585415, y: 0.028361052, z: 0.049209192}
+      rotation: {x: -0.018846536, y: -0.75131756, z: 0.044338267, w: 0.65817994}
+      scale: {x: 1.0000046, y: 1.0000012, z: 1.0000023}
+    - name: Soldier_RArmIKTarget
+      parentName: 
+      position: {x: 0.11490458, y: -0.015830688, z: 0.057487983}
+      rotation: {x: 0.11480398, y: -0.6853897, z: 0.7114295, w: 0.10454304}
+      scale: {x: 1.0000054, y: 1.0000004, z: 0.9999998}
+    - name: WeaponRoot
+      parentName: 
+      position: {x: 0.07121682, y: 0.09181583, z: 0.045583114}
+      rotation: {x: -0.03583422, y: -0.0002302704, z: 0.02737755, w: 0.99898267}
+      scale: {x: 0.99999946, y: 1, z: 1.0000001}
+    - name: WeaponBone
+      parentName: 
+      position: {x: -0.14964426, y: 0.03582718, z: -0.015146999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WeaponBone001
+      parentName: 
+      position: {x: -0.10325756, y: 0.029429436, z: -0.052673623}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: WeaponBone002
+      parentName: 
+      position: {x: -0.1032576, y: -0.056501236, z: -0.025374526}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Soldier_LLeg1
+      parentName: 
+      position: {x: 0.037909105, y: -0.000000007152557, z: 0.09419619}
+      rotation: {x: -0.09605956, y: 0.9951863, z: -0.0057451087, w: 0.01854234}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000001}
+    - name: Soldier_LLeg2
+      parentName: 
+      position: {x: -0.085010506, y: 0.000000019073486, z: 0.00000008106232}
+      rotation: {x: 0.13747284, y: 0.02332358, z: 0.31004962, w: 0.9404395}
+      scale: {x: 0.999998, y: 1.0000033, z: 0.99999905}
+    - name: Soldier_LLegAnkle
+      parentName: 
+      position: {x: -0.086438276, y: 0.0000000047683715, z: 0}
+      rotation: {x: -0.03220055, y: 0.046803195, z: -0.93297756, w: 0.35542282}
+      scale: {x: 0.9999958, y: 1.0000044, z: 1.0000001}
+    - name: Soldier_LLegDigit11
+      parentName: 
+      position: {x: -0.035333987, y: 0, z: 0.000000009536743}
+      rotation: {x: -0.007052051, y: -0.0042974874, z: -0.05171261, w: 0.9986279}
+      scale: {x: 0.9999984, y: 1.0000037, z: 0.9999993}
+    - name: Soldier_LLegDigit12
+      parentName: 
+      position: {x: -0.022326708, y: 0, z: 0.000000009536743}
+      rotation: {x: 1.1102304e-16, y: 0.0000000074506055, z: -0.000000014901211, w: 1}
+      scale: {x: 0.99999666, y: 1.000007, z: 0.99999857}
+    - name: Soldier_RLeg1
+      parentName: 
+      position: {x: 0.037909105, y: -0.0000000047683715, z: -0.094196185}
+      rotation: {x: 0.12815571, y: 0.97589904, z: -0.17608397, w: -0.013845383}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: Soldier_RLeg2
+      parentName: 
+      position: {x: -0.08501051, y: 0, z: -0.000000057220458}
+      rotation: {x: -0.1388623, y: 0.009411344, z: 0.06729116, w: 0.98797804}
+      scale: {x: 1.0000048, y: 1.000003, z: 0.99999243}
+    - name: Soldier_RLegAnkle
+      parentName: 
+      position: {x: -0.08643826, y: 0, z: 0.000000009536743}
+      rotation: {x: -0.9184343, y: 0.33489802, z: 0.010658565, w: 0.21025752}
+      scale: {x: 1.0000005, y: 0.9999995, z: 0.99999994}
+    - name: Soldier_RLegDigit11
+      parentName: 
+      position: {x: -0.035334006, y: 0, z: 0.000000009536743}
+      rotation: {x: 0.11981665, y: -0.0013218682, z: -0.10130974, w: 0.98761255}
+      scale: {x: 1.0000048, y: 1.0000037, z: 0.99999213}
+    - name: Soldier_RLegDigit12
+      parentName: 
+      position: {x: -0.022326717, y: -0.0000000047683715, z: 0.000000009536743}
+      rotation: {x: -0.000000012572781, y: 0.0000000027939417, z: -0.0000000074505113,
+        w: 1}
+      scale: {x: 1.0000093, y: 1.0000058, z: 0.9999852}
+    - name: Soldier_Spine1
+      parentName: 
+      position: {x: -0.03671276, y: 0.000000007152557, z: -0.0000000023841857}
+      rotation: {x: -0.059236437, y: 0.0006564632, z: -0.0021763737, w: 0.9982414}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: Soldier_Spine2
+      parentName: 
+      position: {x: -0.14162812, y: 0, z: 0}
+      rotation: {x: -0.21722344, y: 0.0018071245, z: -0.014509232, w: 0.9760124}
+      scale: {x: 0.99999976, y: 1, z: 0.99999994}
+    - name: Soldier_Spine3
+      parentName: 
+      position: {x: -0.121165045, y: 0, z: 0.0000000023841857}
+      rotation: {x: -0.041229896, y: 0.0008428804, z: -0.003796759, w: 0.9991421}
+      scale: {x: 1, y: 0.99999946, z: 1}
+    - name: Soldier_LArmCollarbone
+      parentName: 
+      position: {x: 0.000000038146972, y: -0.0000000047683715, z: 0.09242596}
+      rotation: {x: -0.008339913, y: 0.7055896, z: -0.007891878, w: 0.7085278}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Soldier_LArm1
+      parentName: 
+      position: {x: -0.069612026, y: -0.00000035762787, z: -0.0000004196167}
+      rotation: {x: -0.1908498, y: -0.015959434, z: 0.16351849, w: 0.9677724}
+      scale: {x: 1.000004, y: 0.99999994, z: 0.9999969}
+    - name: Soldier_LArm2
+      parentName: 
+      position: {x: -0.17528044, y: -0.00000089645386, z: 0.00000015258789}
+      rotation: {x: -0.33946863, y: -0.0070610344, z: -0.015922252, w: 0.94045615}
+      scale: {x: 1.0000042, y: 1.0000033, z: 0.9999975}
+    - name: Soldier_LArmPalm
+      parentName: 
+      position: {x: -0.10869265, y: 0, z: 0}
+      rotation: {x: 0.34593534, y: 0.026879482, z: -0.29474485, w: 0.8903549}
+      scale: {x: 1.0000011, y: 0.9999958, z: 1.0000044}
+    - name: Soldier_LFinger1_00
+      parentName: 
+      position: {x: -0.13482846, y: 0.0028075408, z: 0.028047238}
+      rotation: {x: 0.018501302, y: 0.096792154, z: -0.073181115, w: 0.9924382}
+      scale: {x: 1.0000045, y: 0.9999952, z: 0.99999994}
+    - name: Soldier_LFinger2_00
+      parentName: 
+      position: {x: -0.040712737, y: 0.000000009536743, z: -0.000000009536743}
+      rotation: {x: -0.00000003300602, y: 0.00000005018808, z: -0.452817, w: 0.8916035}
+      scale: {x: 1.0000048, y: 0.9999956, z: 0.99999994}
+    - name: Soldier_LFinger1_01
+      parentName: 
+      position: {x: -0.1353464, y: -0.00045578, z: -0.008716325}
+      rotation: {x: 0.06964043, y: 0.08818291, z: -0.0768777, w: 0.9906886}
+      scale: {x: 1.0000046, y: 0.99999535, z: 0.9999998}
+    - name: Soldier_LFinger2_01
+      parentName: 
+      position: {x: -0.054147985, y: -0.000000019073486, z: 0}
+      rotation: {x: 0.000000010173436, y: 0.000000028258611, z: -0.452817, w: 0.89160347}
+      scale: {x: 1.0000048, y: 0.9999953, z: 0.99999976}
+    - name: Soldier_LFinger1_02
+      parentName: 
+      position: {x: -0.12285459, y: 0.0033603285, z: 0.063583106}
+      rotation: {x: -0.014622757, y: 0.10242387, z: -0.07003959, w: 0.9921643}
+      scale: {x: 1.0000045, y: 0.99999505, z: 1}
+    - name: Soldier_LFinger2_03
+      parentName: 
+      position: {x: -0.03667816, y: -0.000000028610229, z: 0}
+      rotation: {x: -0.000000019720039, y: 0.000000043440554, z: -0.45281696, w: 0.8916035}
+      scale: {x: 1.0000048, y: 0.9999954, z: 1.0000001}
+    - name: Soldier_LFinger1_03
+      parentName: 
+      position: {x: -0.12364191, y: -0.002197647, z: -0.04514368}
+      rotation: {x: 0.11649731, y: 0.08069816, z: -0.07919788, w: 0.9867339}
+      scale: {x: 1.0000045, y: 0.9999951, z: 0.99999994}
+    - name: Soldier_LFinger2_02
+      parentName: 
+      position: {x: -0.055230863, y: -0.000000019073486, z: -0.000000009536743}
+      rotation: {x: 0.011171022, y: 0.11018389, z: -0.13699156, w: 0.98436177}
+      scale: {x: 1.000001, y: 0.99999917, z: 1.0000002}
+    - name: Soldier_LThumb1
+      parentName: 
+      position: {x: -0.07278938, y: 0.013525772, z: -0.0691592}
+      rotation: {x: -0.7521615, y: 0.2947263, z: 0.35456273, w: -0.47082365}
+      scale: {x: 1.0000049, y: 0.99999195, z: 1.0000031}
+    - name: Soldier_LThumb2
+      parentName: 
+      position: {x: -0.044184722, y: 0.000000019073486, z: 0.000000019073486}
+      rotation: {x: -0.020934189, y: 0.074197814, z: -0.27073547, w: 0.95956177}
+      scale: {x: 1.0000018, y: 0.9999977, z: 1.0000007}
+    - name: Soldier_RArmCollarbone
+      parentName: 
+      position: {x: -0, y: 0.000000019073486, z: -0.092425965}
+      rotation: {x: -0.007934089, y: -0.7080126, z: 0.008120402, w: 0.70610857}
+      scale: {x: 1.0140938, y: 1.0000004, z: 1}
+    - name: Soldier_RArm1
+      parentName: 
+      position: {x: -0.06961212, y: 0.0000000047683715, z: -0.000000076293944}
+      rotation: {x: -0.16371132, y: 0.019107588, z: -0.16879453, w: 0.9717726}
+      scale: {x: 1.0136265, y: 0.98680115, z: 0.9997716}
+    - name: Soldier_RArm2
+      parentName: 
+      position: {x: -0.17528005, y: 0.000000038146972, z: 0.000000038146972}
+      rotation: {x: -0.004175044, y: 0.0020884455, z: -0.02547877, w: 0.9996645}
+      scale: {x: 1.0065303, y: 0.993606, z: 0.99999607}
+    - name: Soldier_RArmPalm
+      parentName: 
+      position: {x: -0.108692676, y: -0.000000009536743, z: 0}
+      rotation: {x: -0.44016626, y: 0.07894376, z: -0.19362174, w: 0.873231}
+      scale: {x: 1.0041906, y: 0.99667615, z: 0.99922955}
+    - name: Soldier_RFinger1_00
+      parentName: 
+      position: {x: -0.122854605, y: 0.0033599853, z: -0.063583106}
+      rotation: {x: 0.10848057, y: 0.018086776, z: -0.04292661, w: 0.99300665}
+      scale: {x: 1.0128084, y: 0.9879862, z: 0.99938774}
+    - name: Soldier_RFinger2_00
+      parentName: 
+      position: {x: -0.03667816, y: -0.000000009536743, z: 0.000000019073486}
+      rotation: {x: -0.000000008603957, y: -0.000000011950305, z: -0.58429295, w: 0.8115428}
+      scale: {x: 1.0119349, y: 0.98823774, z: 1.0000001}
+    - name: Soldier_RFinger1_01
+      parentName: 
+      position: {x: -0.1348284, y: 0.0028072165, z: -0.028047256}
+      rotation: {x: 0.06320314, y: 0.020801531, z: -0.042093836, w: 0.9968956}
+      scale: {x: 1.0127937, y: 0.9875466, z: 0.9998363}
+    - name: Soldier_RFinger2_01
+      parentName: 
+      position: {x: -0.040712774, y: -0.000000009536743, z: 0}
+      rotation: {x: 0.000000041681645, y: 0.0000000062800587, z: -0.584293, w: 0.8115428}
+      scale: {x: 1.0119349, y: 0.9882375, z: 1}
+    - name: Soldier_RFinger1_02
+      parentName: 
+      position: {x: -0.13534634, y: -0.00045602798, z: 0.008716354}
+      rotation: {x: -0.0065388805, y: 0.024879826, z: -0.040339872, w: 0.9988549}
+      scale: {x: 1.0127885, y: 0.98741966, z: 0.9999668}
+    - name: Soldier_RFinger2_02
+      parentName: 
+      position: {x: -0.054148003, y: 0.000000009536743, z: 0}
+      rotation: {x: -0.000000009177648, y: 0.0000000066077055, z: -0.584293, w: 0.8115428}
+      scale: {x: 1.0119355, y: 0.9882376, z: 1.0000001}
+    - name: Soldier_RFinger1_03
+      parentName: 
+      position: {x: -0.12364188, y: -0.002197914, z: 0.04514366}
+      rotation: {x: -0.020740705, y: 0.05621029, z: -0.072824284, w: 0.9955435}
+      scale: {x: 1.0023634, y: 0.9982002, z: 0.9994942}
+    - name: Soldier_RFinger2_03
+      parentName: 
+      position: {x: -0.055230934, y: 0, z: 0}
+      rotation: {x: 0.053845078, y: 0.016747098, z: -0.45972258, w: 0.8862705}
+      scale: {x: 1.0088177, y: 0.99134696, z: 0.9999905}
+    - name: Soldier_RThumb1
+      parentName: 
+      position: {x: -0.072789334, y: 0.013525657, z: 0.0691592}
+      rotation: {x: -0.3881311, y: 0.41715884, z: 0.0057588825, w: 0.82176614}
+      scale: {x: 1.0117242, y: 1.000194, z: 0.988261}
+    - name: Soldier_RThumb2
+      parentName: 
+      position: {x: -0.04418475, y: 0.000000038146972, z: -0.000000019073486}
+      rotation: {x: -0.2971697, y: 0.02920581, z: -0.425392, w: 0.85432947}
+      scale: {x: 1.0078686, y: 0.993573, z: 0.9987127}
+    - name: Soldier_Spine
+      parentName: 
+      position: {x: -0.032855604, y: 0.000000009536743, z: 0}
+      rotation: {x: 0.13324912, y: 0.0027299456, z: -0.010418033, w: 0.9910241}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: Soldier_Head
+      parentName: 
+      position: {x: -0.17395954, y: 0.000000009536743, z: 5.9604643e-10}
+      rotation: {x: 0.13325974, y: 0.0013904362, z: -0.0035858315, w: 0.9910737}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: Soldier_chin
+      parentName: 
+      position: {x: 0.12804466, y: 0.16711582, z: -0.00008365869}
+      rotation: {x: -0.49999994, y: 0.50000006, z: 0.49999994, w: 0.50000006}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000004}
+    - name: Soldier_LEye
+      parentName: 
+      position: {x: -0.062247846, y: 0.118720755, z: 0.05556999}
+      rotation: {x: -0.008157545, y: 0.72490895, z: 0.68612415, w: -0.060614698}
+      scale: {x: 0.9999996, y: 1, z: 1.0000001}
+    - name: Soldier_LMouth
+      parentName: 
+      position: {x: 0.07493835, y: 0.17425182, z: 0.055840056}
+      rotation: {x: 0.2536442, y: -0.32996082, z: 0.6254005, w: 0.660049}
+      scale: {x: -0.99999976, y: -1.0000002, z: -1.0000001}
+    - name: Soldier_LUpFace
+      parentName: 
+      position: {x: -0.062292174, y: 0.14290485, z: 0.05855614}
+      rotation: {x: 0.5000076, y: -0.49999237, z: -0.5000076, w: -0.49999237}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Soldier_LEyeLid
+      parentName: 
+      position: {x: 0.00210001, y: -0.00341156, z: 0.0024950122}
+      rotation: {x: 0.0000000074505797, y: 0.00000023853497, z: 4.6565946e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Soldier_REye
+      parentName: 
+      position: {x: -0.06224777, y: 0.11872077, z: -0.055566967}
+      rotation: {x: -0.05842063, y: 0.73510206, z: 0.6752876, w: -0.014099098}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.99999964}
+    - name: Soldier_RMouth
+      parentName: 
+      position: {x: 0.07493835, y: 0.17425178, z: -0.05584167}
+      rotation: {x: 0.66004884, y: -0.62540066, z: -0.3299608, w: -0.25364432}
+      scale: {x: 0.9999995, y: 1.0000001, z: 1.0000005}
+    - name: Soldier_RUpFace
+      parentName: 
+      position: {x: -0.06229225, y: 0.14290488, z: -0.058068242}
+      rotation: {x: 0.5000076, y: -0.49999237, z: -0.5000076, w: -0.49999237}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Soldier_REyeLid
+      parentName: 
+      position: {x: -0.0021069383, y: -0.0034114837, z: 0.0024950027}
+      rotation: {x: 0.0000000074505797, y: 0.00000023853497, z: 4.6565946e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Soldier_RLegPlatform
+      parentName: 
+      position: {x: 0.09383818, y: 0.062331498, z: -0.094934955}
+      rotation: {x: -0.6277854, y: -0.054244213, z: 0.7752507, w: 0.043926027}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    armTwist: 0.073
+    foreArmTwist: 0.271
+    upperLegTwist: 0.453
+    legTwist: 0.372
+    armStretch: 0.457
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
