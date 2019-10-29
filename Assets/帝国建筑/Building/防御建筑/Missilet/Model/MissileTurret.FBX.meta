@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: a2323ff5096ccda43bf33dded9405cd4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: //RootNode
+    100004: MissileTurret
+    100006: MissileTurret001
+    100008: Sphere01
+    100010: Sphere02
+    100012: Sphere03
+    100014: Sphere04
+    100016: Sphere05
+    100018: Sphere06
+    100020: Sphere07
+    100022: Sphere08
+    100024: Sphere09
+    100026: Sphere10
+    100028: Sphere11
+    100030: Sphere12
+    100032: Sphere13
+    100034: Sphere14
+    100036: Sphere15
+    100038: Sphere16
+    400000: _M3I_Anim_Data
+    400002: MissileTurret
+    400004: //RootNode
+    400006: MissileTurret001
+    400008: Sphere01
+    400010: Sphere02
+    400012: Sphere03
+    400014: Sphere04
+    400016: Sphere05
+    400018: Sphere06
+    400020: Sphere07
+    400022: Sphere08
+    400024: Sphere09
+    400026: Sphere10
+    400028: Sphere11
+    400030: Sphere12
+    400032: Sphere13
+    400034: Sphere14
+    400036: Sphere15
+    400038: Sphere16
+    2100000: No Name
+    2100002: 'Material #91'
+    2300000: MissileTurret
+    2300002: MissileTurret001
+    2300004: Sphere01
+    2300006: Sphere02
+    2300008: Sphere03
+    2300010: Sphere04
+    2300012: Sphere05
+    2300014: Sphere06
+    2300016: Sphere07
+    2300018: Sphere08
+    2300020: Sphere09
+    2300022: Sphere10
+    2300024: Sphere11
+    2300026: Sphere12
+    2300028: Sphere13
+    2300030: Sphere14
+    2300032: Sphere15
+    2300034: Sphere16
+    3300000: MissileTurret
+    3300002: MissileTurret001
+    3300004: Sphere01
+    3300006: Sphere02
+    3300008: Sphere03
+    3300010: Sphere04
+    3300012: Sphere05
+    3300014: Sphere06
+    3300016: Sphere07
+    3300018: Sphere08
+    3300020: Sphere09
+    3300022: Sphere10
+    3300024: Sphere11
+    3300026: Sphere12
+    3300028: Sphere13
+    3300030: Sphere14
+    3300032: Sphere15
+    3300034: Sphere16
+    4300000: Sphere01
+    4300002: Sphere02
+    4300004: Sphere03
+    4300006: Sphere04
+    4300008: Sphere05
+    4300010: Sphere06
+    4300012: Sphere07
+    4300014: Sphere08
+    4300016: Sphere09
+    4300018: Sphere10
+    4300020: Sphere11
+    4300022: Sphere12
+    4300024: Sphere13
+    4300026: Sphere14
+    4300028: Sphere15
+    4300030: Sphere16
+    4300032: MissileTurret001
+    4300034: MissileTurret
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

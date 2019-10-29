@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 6c51bdf71b45de142b70cca05c36bccd
+timeCreated: 1558242710
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: _M3_Anim_Data
+    100002: Dummy01
+    100004: Dummy02
+    100006: HitTestFuzzy
+    100008: HitTestTight
+    100010: Mesh01
+    100012: Mesh02
+    100014: Mesh03
+    100016: Mesh04
+    100018: MULE
+    100020: Ref_Center
+    100022: Ref_Center 1
+    100024: Ref_Hardpoint
+    100026: Ref_Hardpoint 1
+    100028: Ref_Head
+    100030: Ref_Head 1
+    100032: Ref_Origin
+    100034: Ref_Origin 1
+    100036: Ref_Overhead
+    100038: Ref_Overhead 1
+    100040: Ref_Target
+    100042: Ref_Target 01
+    100044: Ref_Target 02
+    100046: Ref_Weapon
+    100048: Ref_Weapon 1
+    100050: Sphere002
+    100052: Sphere003
+    100054: Sphere004
+    100056: Sphere005
+    100058: Sphere006
+    100060: Sphere007
+    100062: Sphere008
+    100064: Sphere009
+    100066: Sphere010
+    100068: Sphere011
+    100070: Sphere012
+    100072: Sphere013
+    100074: Sphere014
+    100076: Sphere015
+    100078: Sphere016
+    100080: Sphere017
+    100082: Sphere018
+    100084: Sphere019
+    100086: Sphere020
+    100088: Sphere021
+    100090: Sphere022
+    100092: Sphere023
+    100094: Sphere024
+    100096: Sphere025
+    100098: Sphere026
+    100100: Star2Omni01
+    100102: Star2Part01
+    100104: Star2Part01jetwalk
+    100106: Star2Part02sparks
+    100108: Star2Part02sparks01
+    100110: Star2Part04glowstand01
+    100112: Unit_Terran_Mule_Arm_01
+    100114: Unit_Terran_Mule_Arm_02
+    100116: Unit_Terran_Mule_Arm_03
+    100118: Unit_Terran_Mule_Arm_04
+    100120: Unit_Terran_Mule_Arm_05
+    100122: Unit_Terran_Mule_Arm_06
+    100124: Unit_Terran_Mule_Body
+    100126: Unit_Terran_Mule_Booster
+    100128: Unit_Terran_Mule_Clamp
+    100130: Unit_Terran_Mule_Clamp~DUP~0
+    100132: Unit_Terran_Mule_Saw
+    100134: Unit_Terran_Mule_Saw01
+    100136: Vol_Target
+    100138: Vol_Target 01
+    100140: Vol_Target 02
+    100142: //RootNode
+    400000: _M3_Anim_Data
+    400002: Dummy01
+    400004: Dummy02
+    400006: HitTestFuzzy
+    400008: HitTestTight
+    400010: Mesh01
+    400012: Mesh02
+    400014: Mesh03
+    400016: Mesh04
+    400018: MULE
+    400020: Ref_Center
+    400022: Ref_Center 1
+    400024: Ref_Hardpoint
+    400026: Ref_Hardpoint 1
+    400028: Ref_Head
+    400030: Ref_Head 1
+    400032: Ref_Origin
+    400034: Ref_Origin 1
+    400036: Ref_Overhead
+    400038: Ref_Overhead 1
+    400040: Ref_Target
+    400042: Ref_Target 01
+    400044: Ref_Target 02
+    400046: Ref_Weapon
+    400048: Ref_Weapon 1
+    400050: Sphere002
+    400052: Sphere003
+    400054: Sphere004
+    400056: Sphere005
+    400058: Sphere006
+    400060: Sphere007
+    400062: Sphere008
+    400064: Sphere009
+    400066: Sphere010
+    400068: Sphere011
+    400070: Sphere012
+    400072: Sphere013
+    400074: Sphere014
+    400076: Sphere015
+    400078: Sphere016
+    400080: Sphere017
+    400082: Sphere018
+    400084: Sphere019
+    400086: Sphere020
+    400088: Sphere021
+    400090: Sphere022
+    400092: Sphere023
+    400094: Sphere024
+    400096: Sphere025
+    400098: Sphere026
+    400100: Star2Omni01
+    400102: Star2Part01
+    400104: Star2Part01jetwalk
+    400106: Star2Part02sparks
+    400108: Star2Part02sparks01
+    400110: Star2Part04glowstand01
+    400112: Unit_Terran_Mule_Arm_01
+    400114: Unit_Terran_Mule_Arm_02
+    400116: Unit_Terran_Mule_Arm_03
+    400118: Unit_Terran_Mule_Arm_04
+    400120: Unit_Terran_Mule_Arm_05
+    400122: Unit_Terran_Mule_Arm_06
+    400124: Unit_Terran_Mule_Body
+    400126: Unit_Terran_Mule_Booster
+    400128: Unit_Terran_Mule_Clamp
+    400130: Unit_Terran_Mule_Clamp~DUP~0
+    400132: Unit_Terran_Mule_Saw
+    400134: Unit_Terran_Mule_Saw01
+    400136: Vol_Target
+    400138: Vol_Target 01
+    400140: Vol_Target 02
+    400142: //RootNode
+    2300000: Sphere002
+    2300002: Sphere003
+    2300004: Sphere004
+    2300006: Sphere005
+    2300008: Sphere006
+    2300010: Sphere007
+    2300012: Sphere008
+    2300014: Sphere009
+    2300016: Sphere010
+    2300018: Sphere011
+    2300020: Sphere012
+    2300022: Sphere013
+    2300024: Sphere014
+    2300026: Sphere015
+    2300028: Sphere016
+    2300030: Sphere017
+    2300032: Sphere018
+    2300034: Sphere019
+    2300036: Sphere020
+    2300038: Sphere021
+    2300040: Sphere022
+    2300042: Sphere023
+    2300044: Sphere024
+    2300046: Sphere025
+    2300048: Sphere026
+    3300000: Sphere002
+    3300002: Sphere003
+    3300004: Sphere004
+    3300006: Sphere005
+    3300008: Sphere006
+    3300010: Sphere007
+    3300012: Sphere008
+    3300014: Sphere009
+    3300016: Sphere010
+    3300018: Sphere011
+    3300020: Sphere012
+    3300022: Sphere013
+    3300024: Sphere014
+    3300026: Sphere015
+    3300028: Sphere016
+    3300030: Sphere017
+    3300032: Sphere018
+    3300034: Sphere019
+    3300036: Sphere020
+    3300038: Sphere021
+    3300040: Sphere022
+    3300042: Sphere023
+    3300044: Sphere024
+    3300046: Sphere025
+    3300048: Sphere026
+    4300000: Sphere002
+    4300002: Sphere003
+    4300004: Sphere004
+    4300006: Sphere005
+    4300008: Sphere006
+    4300010: Sphere007
+    4300012: Sphere008
+    4300014: Sphere009
+    4300016: Sphere010
+    4300018: Sphere011
+    4300020: Sphere012
+    4300022: Sphere013
+    4300024: Sphere014
+    4300026: Sphere015
+    4300028: Sphere016
+    4300030: Sphere017
+    4300032: Sphere018
+    4300034: Sphere019
+    4300036: Sphere020
+    4300038: Sphere021
+    4300040: Sphere022
+    4300042: Sphere023
+    4300044: Sphere024
+    4300046: Sphere025
+    4300048: MULE
+    4300050: Sphere026
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: MULE
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

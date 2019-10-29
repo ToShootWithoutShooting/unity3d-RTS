@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: b24b70cd5aff66242bba7d6b6cbc8841
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: Bldg_Protoss_Nexus_01
+    100004: Bldg_Protoss_Nexus_02
+    100006: Bldg_Protoss_Nexus_03
+    100008: Bldg_Protoss_Nexus_04
+    100010: Bldg_Protoss_Nexus_05
+    100012: Bldg_Protoss_Nexus_Crystal_1
+    100014: Dummy01
+    100016: HitTestFuzzy
+    100018: HitTestFuzzy01
+    100020: HitTestFuzzy02
+    100022: HitTestFuzzy03
+    100024: HitTestFuzzy04
+    100026: HitTestFuzzy05
+    100028: HitTestFuzzy06
+    100030: HitTestFuzzy07
+    100032: HitTestTight
+    100034: //RootNode
+    100036: Nexus
+    100038: Object01
+    100040: Ref_Center
+    100042: Ref_Damage
+    100044: Ref_Damage 01
+    100046: Ref_Damage 02
+    100048: Ref_Damage 03
+    100050: Ref_Damage 04
+    100052: Ref_Damage 05
+    100054: Ref_Damage 06
+    100056: Ref_Damage 07
+    100058: Ref_Damage 08
+    100060: Ref_Damage 09
+    100062: Ref_Damage 10
+    100064: Ref_Damage 11
+    100066: Ref_Damage 12
+    100068: Ref_Damage 13
+    100070: Ref_Damage 14
+    100072: Ref_Origin
+    100074: Ref_Overhead
+    100076: Star2Part01glow01
+    100078: Star2Part01glow02rays
+    100080: Torus Knot01
+    100082: Vol_Shield
+    100084: Vol_Target
+    100086: Vol_Target 01
+    100088: Vol_Target 02
+    100090: Vol_Target 03
+    100092: Vol_Target 04
+    100094: Vol_Target 05
+    100096: Vol_Target 06
+    400000: _M3I_Anim_Data
+    400002: Bldg_Protoss_Nexus_01
+    400004: Bldg_Protoss_Nexus_02
+    400006: Bldg_Protoss_Nexus_03
+    400008: Bldg_Protoss_Nexus_04
+    400010: Bldg_Protoss_Nexus_05
+    400012: Bldg_Protoss_Nexus_Crystal_1
+    400014: Dummy01
+    400016: HitTestFuzzy
+    400018: HitTestFuzzy01
+    400020: HitTestFuzzy02
+    400022: HitTestFuzzy03
+    400024: HitTestFuzzy04
+    400026: HitTestFuzzy05
+    400028: HitTestFuzzy06
+    400030: HitTestFuzzy07
+    400032: HitTestTight
+    400034: //RootNode
+    400036: Nexus
+    400038: Object01
+    400040: Ref_Center
+    400042: Ref_Damage
+    400044: Ref_Damage 01
+    400046: Ref_Damage 02
+    400048: Ref_Damage 03
+    400050: Ref_Damage 04
+    400052: Ref_Damage 05
+    400054: Ref_Damage 06
+    400056: Ref_Damage 07
+    400058: Ref_Damage 08
+    400060: Ref_Damage 09
+    400062: Ref_Damage 10
+    400064: Ref_Damage 11
+    400066: Ref_Damage 12
+    400068: Ref_Damage 13
+    400070: Ref_Damage 14
+    400072: Ref_Origin
+    400074: Ref_Overhead
+    400076: Star2Part01glow01
+    400078: Star2Part01glow02rays
+    400080: Torus Knot01
+    400082: Vol_Shield
+    400084: Vol_Target
+    400086: Vol_Target 01
+    400088: Vol_Target 02
+    400090: Vol_Target 03
+    400092: Vol_Target 04
+    400094: Vol_Target 05
+    400096: Vol_Target 06
+    2100000: 'Material #59'
+    4300000: Nexus
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Nexus
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 167
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

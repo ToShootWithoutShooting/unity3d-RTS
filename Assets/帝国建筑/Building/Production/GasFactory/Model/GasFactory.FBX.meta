@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 77f5e4bbd3f83374a8c985066d6326f2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _M3I_Anim_Data
+    100002: AutoTurret
+    100004: Barracks
+    100006: Bunker
+    100008: CommandCenter001
+    100010: CommandCenter002
+    100012: CommandCenter003
+    100014: Factory
+    100016: //RootNode
+    100018: MissileTurret
+    100020: MissileTurret001
+    100022: Reactor
+    100024: Reactor001
+    100026: Refinery001
+    100028: Sphere01
+    100030: Sphere02
+    100032: Sphere03
+    100034: Sphere04
+    100036: Sphere05
+    100038: Sphere06
+    100040: Sphere07
+    100042: Sphere08
+    100044: Sphere09
+    100046: Sphere10
+    100048: Sphere11
+    100050: Sphere12
+    100052: Sphere13
+    100054: Sphere14
+    100056: Sphere15
+    100058: Sphere16
+    100060: "\u5BF9\u8C61001"
+    100062: "\u5BF9\u8C61005"
+    100064: "\u5BF9\u8C61006"
+    100066: "\u5BF9\u8C61007"
+    100068: "\u5BF9\u8C61008"
+    100070: "\u5BF9\u8C61009"
+    100072: "\u5BF9\u8C61010"
+    100074: "\u5BF9\u8C61011"
+    100076: "\u5BF9\u8C61012"
+    400000: _M3I_Anim_Data
+    400002: AutoTurret
+    400004: Barracks
+    400006: Bunker
+    400008: CommandCenter001
+    400010: CommandCenter002
+    400012: CommandCenter003
+    400014: Factory
+    400016: //RootNode
+    400018: MissileTurret
+    400020: MissileTurret001
+    400022: Reactor
+    400024: Reactor001
+    400026: Refinery001
+    400028: Sphere01
+    400030: Sphere02
+    400032: Sphere03
+    400034: Sphere04
+    400036: Sphere05
+    400038: Sphere06
+    400040: Sphere07
+    400042: Sphere08
+    400044: Sphere09
+    400046: Sphere10
+    400048: Sphere11
+    400050: Sphere12
+    400052: Sphere13
+    400054: Sphere14
+    400056: Sphere15
+    400058: Sphere16
+    400060: "\u5BF9\u8C61001"
+    400062: "\u5BF9\u8C61005"
+    400064: "\u5BF9\u8C61006"
+    400066: "\u5BF9\u8C61007"
+    400068: "\u5BF9\u8C61008"
+    400070: "\u5BF9\u8C61009"
+    400072: "\u5BF9\u8C61010"
+    400074: "\u5BF9\u8C61011"
+    400076: "\u5BF9\u8C61012"
+    2100000: No Name
+    2100002: 'Material #71'
+    2100004: 'Material #76'
+    2100006: 'Material #89'
+    2100008: 'Material #79'
+    2100010: 'Material #92'
+    2100012: 'Material #91'
+    2100014: 'Material #86'
+    2100016: 'Material #74'
+    2300000: AutoTurret
+    2300002: Barracks
+    2300004: Bunker
+    2300006: CommandCenter001
+    2300008: CommandCenter002
+    2300010: CommandCenter003
+    2300012: Factory
+    2300014: MissileTurret
+    2300016: MissileTurret001
+    2300018: Reactor
+    2300020: Reactor001
+    2300022: Refinery001
+    2300024: Sphere01
+    2300026: Sphere02
+    2300028: Sphere03
+    2300030: Sphere04
+    2300032: Sphere05
+    2300034: Sphere06
+    2300036: Sphere07
+    2300038: Sphere08
+    2300040: Sphere09
+    2300042: Sphere10
+    2300044: Sphere11
+    2300046: Sphere12
+    2300048: Sphere13
+    2300050: Sphere14
+    2300052: Sphere15
+    2300054: Sphere16
+    2300056: "\u5BF9\u8C61001"
+    2300058: "\u5BF9\u8C61005"
+    2300060: "\u5BF9\u8C61006"
+    2300062: "\u5BF9\u8C61007"
+    2300064: "\u5BF9\u8C61008"
+    2300066: "\u5BF9\u8C61009"
+    2300068: "\u5BF9\u8C61010"
+    2300070: "\u5BF9\u8C61011"
+    2300072: "\u5BF9\u8C61012"
+    3300000: AutoTurret
+    3300002: Barracks
+    3300004: Bunker
+    3300006: CommandCenter001
+    3300008: CommandCenter002
+    3300010: CommandCenter003
+    3300012: Factory
+    3300014: MissileTurret
+    3300016: MissileTurret001
+    3300018: Reactor
+    3300020: Reactor001
+    3300022: Refinery001
+    3300024: Sphere01
+    3300026: Sphere02
+    3300028: Sphere03
+    3300030: Sphere04
+    3300032: Sphere05
+    3300034: Sphere06
+    3300036: Sphere07
+    3300038: Sphere08
+    3300040: Sphere09
+    3300042: Sphere10
+    3300044: Sphere11
+    3300046: Sphere12
+    3300048: Sphere13
+    3300050: Sphere14
+    3300052: Sphere15
+    3300054: Sphere16
+    3300056: "\u5BF9\u8C61001"
+    3300058: "\u5BF9\u8C61005"
+    3300060: "\u5BF9\u8C61006"
+    3300062: "\u5BF9\u8C61007"
+    3300064: "\u5BF9\u8C61008"
+    3300066: "\u5BF9\u8C61009"
+    3300068: "\u5BF9\u8C61010"
+    3300070: "\u5BF9\u8C61011"
+    3300072: "\u5BF9\u8C61012"
+    4300000: Sphere01
+    4300002: AutoTurret
+    4300004: Sphere02
+    4300006: Barracks
+    4300008: Sphere03
+    4300010: Bunker
+    4300012: Sphere04
+    4300014: Sphere05
+    4300016: Sphere06
+    4300018: Factory
+    4300020: Sphere07
+    4300022: Sphere08
+    4300024: Sphere09
+    4300026: Sphere10
+    4300028: Sphere11
+    4300030: Reactor
+    4300032: Reactor001
+    4300034: Sphere12
+    4300036: Sphere13
+    4300038: Sphere14
+    4300040: Sphere15
+    4300042: Sphere16
+    4300044: CommandCenter001
+    4300046: CommandCenter002
+    4300048: CommandCenter003
+    4300050: MissileTurret001
+    4300052: MissileTurret
+    4300054: Refinery001
+    4300056: "\u5BF9\u8C61005"
+    4300058: "\u5BF9\u8C61001"
+    4300060: "\u5BF9\u8C61006"
+    4300062: "\u5BF9\u8C61007"
+    4300064: "\u5BF9\u8C61008"
+    4300066: "\u5BF9\u8C61009"
+    4300068: "\u5BF9\u8C61011"
+    4300070: "\u5BF9\u8C61010"
+    4300072: "\u5BF9\u8C61012"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
