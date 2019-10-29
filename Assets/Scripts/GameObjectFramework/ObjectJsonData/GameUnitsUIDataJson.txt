@@ -1,0 +1,64 @@
+{
+	"GameUnitsUIData": [
+		{
+			"unit_Icon": "AllianceCenter",
+			"unit_UIName": "联盟基地",
+			"unit_UIInf": "联盟指挥基地，负责指挥联盟建筑生产，资源开采，军队调度，可生产蓝翔挖掘建筑机。",
+			"unit_ProdIcon": "Harvester|0"
+		},
+		{
+			"unit_Icon": "AllianceHarvester",
+			"unit_UIName": "联盟矿车",
+			"unit_UIInf": "联盟万金油建设者，能上山下海，生产各种军事设施，被士兵尊称基建狂魔。",
+			"unit_ProdIcon": "Barrack|1,OrdnanceFactory|1,Airport|1" 
+		},
+		{
+			"unit_Icon": "AllianceBarrack",
+			"unit_UIName": "联盟兵营",
+			"unit_UIInf": "联盟兵营,生产联盟陆战士兵，提供作战所需的步兵支(炮)援(灰)。",
+			"unit_ProdIcon": "Solider|0"
+		},
+		{
+			"unit_Icon": "AllianceOrdnanceFactory",
+			"unit_UIName": "联盟军工厂",
+			"unit_UIInf": "联盟军工厂,生产联盟陆战装甲战车，创造了一只又一只无坚不摧，令敌人闻风丧胆的装甲铁拳。他们的口号是“前进，坦克压倒一切”。",
+			"unit_ProdIcon": "Tank|0"
+		},
+		{
+			"unit_Icon": "AllianceAirport",
+			"unit_UIName": "联盟飞机场",
+			"unit_UIInf": "联盟飞机场,生产联盟空战航母。",
+			"unit_ProdIcon": "AirShip|0"
+		},
+		{
+			"unit_Icon": "EmpireCenter",
+			"unit_UIName": "帝国基地",
+			"unit_UIInf": "帝国指挥基地，负责指挥帝国建筑生产，资源开采，军队调度，可生产蓝翔挖掘建筑机。",
+			"unit_ProdIcon": "Harvester|0"
+		},
+		{
+			"unit_Icon": "EmpireHarvester",
+			"unit_UIName": "帝国矿车",
+			"unit_UIInf": "帝国万金油建设者，能上山下海，生产各种军事设施，被士兵尊称基建狂魔。",
+			"unit_ProdIcon": "Barrack|1,OrdnanceFactory|1,Airport|1" 
+		},
+		{
+			"unit_Icon": "EmpireBarrack",
+			"unit_UIName": "帝国兵营",
+			"unit_UIInf": "帝国兵营,生产帝国陆战士兵，提供作战所需的步兵支(炮)援(灰)。",
+			"unit_ProdIcon": "Solider|0"
+		},
+		{
+			"unit_Icon": "EmpireOrdnanceFactory",
+			"unit_UIName": "帝国军工厂",
+			"unit_UIInf": "帝国军工厂,生产帝国陆战装甲战车，创造了一只又一只无坚不摧，令敌人闻风丧胆的装甲铁拳。他们的口号是“前进，坦克压倒一切”。",
+			"unit_ProdIcon": "Tank|0"
+		},
+		{
+			"unit_Icon": "EmpireAirport",
+			"unit_UIName": "帝国飞机场",
+			"unit_UIInf": "帝国飞机场,生产帝国空战航母。",
+			"unit_ProdIcon": "AirShip|0"
+		}
+	]
+}

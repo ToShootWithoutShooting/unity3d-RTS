@@ -1,0 +1,116 @@
+﻿{
+	"GameUnitsData": [
+        {
+            "object_UnitName": "AllianceCenter",
+            "object_Camp": "Alliance",
+            "object_UnitType": "CommandCenter",
+            "object_HP": 1000,
+            "unit_Radius": 26.8
+        },
+        {
+            "object_UnitName": "AllianceBarrack",
+            "object_Camp": "Alliance",
+            "object_UnitType": "Barrack",
+            "object_HP": 400,
+            "unit_Radius": 23
+        },
+        {
+            "object_UnitName": "AllianceOrdnanceFactory",
+            "object_Camp": "Alliance",
+            "object_UnitType": "OrdnanceFactory",
+            "object_HP": 400,
+            "unit_Radius": 23
+        },
+		{
+            "object_UnitName": "AllianceAirport",
+            "object_Camp": "Alliance",
+            "object_UnitType": "Airport",
+            "object_HP": 400,
+            "unit_Radius": 23
+        },
+		{
+            "object_UnitName": "AllianceAirShip",
+            "object_Camp": "Alliance",
+            "object_UnitType": "AirShip",
+            "object_HP": 300,
+            "unit_Radius": 23
+        },
+        {
+            "object_UnitName": "AllianceHarvester",
+            "object_Camp": "Alliance",
+            "object_UnitType": "Harvester",
+            "object_HP": 100,
+            "unit_Radius": 13.5
+        },
+        {
+            "object_UnitName": "AllianceSolider",
+            "object_Camp": "Alliance",
+            "object_UnitType": "Solider",
+            "object_HP": 100,
+            "unit_Radius": 24
+        },
+        {
+            "object_UnitName": "AllianceTank",
+            "object_Camp": "Alliance",
+            "object_UnitType": "Tank",
+            "object_HP": 500,
+            "unit_Radius": 24
+        },
+		{
+            "object_UnitName": "EmpireCenter",
+            "object_Camp": "Empire",
+            "object_UnitType": "CommandCenter",
+            "object_HP": 1000,
+            "unit_Radius": 26.8
+        },
+        {
+            "object_UnitName": "EmpireBarrack",
+            "object_Camp": "Empire",
+            "object_UnitType": "Barrack",
+            "object_HP": 400,
+            "unit_Radius": 23
+        },
+        {
+            "object_UnitName": "EmpireOrdnanceFactory",
+            "object_Camp": "Empire",
+            "object_UnitType": "OrdnanceFactory",
+            "object_HP": 400,
+            "unit_Radius": 23
+        },
+		{
+            "object_UnitName": "EmpireAirport",
+            "object_Camp": "Empire",
+            "object_UnitType": "Airport",
+            "object_HP": 400,
+            "unit_Radius": 23
+        },
+        {
+            "object_UnitName": "EmpireSolider",
+            "object_Camp": "Empire",
+            "object_UnitType": "Solider",
+            "object_HP": 100,
+            "unit_Radius": 10
+        },
+        {
+            "object_UnitName": "EmpireTank",
+            "object_Camp": "Empire",
+            "object_UnitType": "Tank",
+            "object_HP": 500,
+            "unit_Radius": 24
+        },
+        {
+            "object_UnitName": "EmpireHarvester",
+            "object_Camp": "Empire",
+            "object_UnitType": "Harvester",
+            "object_HP": 100,
+            "unit_Radius": 24
+        },
+		{
+            "object_UnitName": "EmpireAirShip",
+            "object_Camp": "Empire",
+            "object_UnitType": "AirShip",
+            "object_HP": 300,
+            "unit_Radius": 23
+        }
+	]
+}

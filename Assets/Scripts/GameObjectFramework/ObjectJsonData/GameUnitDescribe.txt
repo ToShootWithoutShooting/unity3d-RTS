@@ -1,0 +1,40 @@
+﻿{
+	"GameUnitDescribe": [
+		{
+			"unit_Name": "Harvester",
+			"unit_Describe": "军队万金油建设者，能上山下海，生产各种军事设施，被士兵尊称基建狂魔。",
+			"unit_Cost": "1|150"
+        },
+		{
+			"unit_Name": "Barrack",
+			"unit_Describe": "兵营,生产陆战士兵，提供作战所需的步兵支(炮)援(灰)。",
+			"unit_Cost": "1|500"
+        },
+		{
+			"unit_Name": "OrdnanceFactory",
+			"unit_Describe": "军工厂,生产陆战装甲战车，创造了一只又一只无坚不摧，令敌人闻风丧胆的装甲铁拳。",
+			"unit_Cost": "1|700"
+        },
+		{
+			"unit_Name": "Airport",
+			"unit_Describe": "飞机场,生产帝国空战航母。",
+			"unit_Cost": "1|1000"
+        },
+		{
+			"unit_Name": "Solider",
+			"unit_Describe": "陆战士兵，掩护装甲集团进攻。",
+			"unit_Cost": "1|300"
+        },
+		{
+			"unit_Name": "Tank",
+			"unit_Describe": "强大的陆战装甲坦克，完美结合防护、机动、火力，口号是“前进，坦克压倒一切。",
+			"unit_Cost": "1|600"
+        },
+		{
+			"unit_Name": "AirShip",
+			"unit_Describe": "航空飞船，强大的空中攻击优势使得它是战场攻击力最强大同时也是最昂贵的武器。",
+			"unit_Cost": "1|900"
+        }
+		
+	]
+}

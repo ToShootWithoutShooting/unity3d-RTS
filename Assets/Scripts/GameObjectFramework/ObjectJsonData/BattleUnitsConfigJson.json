@@ -1,0 +1,53 @@
+{
+	"BattleUnitsConfig": [
+		{
+			"unit_Name": "AllianceSolider",
+			"shell_Type": "bullet",
+			"shell_Damage": 1,
+			"attack_Speed": 0.2,
+			"attack_Priority": "EmpireSolider,EmpireHarvester,EmpireMissileCar,EmpireTank,EmpireBuilding",
+			"maxDetectable_Range": 120
+		},
+		{
+			"unit_Name": "AllianceTank",
+			"shell_Type": "shell",
+			"shell_Damage": 25,
+			"attack_Speed": 2,
+			"attack_Priority": "EmpireTank,EmpireMissileCar,EmpireHarvester,EmpireSolider,EmpireBuilding",
+			"maxDetectable_Range": 120
+		},
+		{
+			"unit_Name": "AllianceAirShip",
+			"shell_Type": "bullet",
+			"shell_Damage": 2.5,
+			"attack_Speed": 0.2,
+			"attack_Priority": "EmpireAirShip,EmpireTank,EmpireMissileCar,EmpireHarvester,EmpireSolider,EmpireBuilding",
+			"maxDetectable_Range": 120
+		},
+		{
+			"unit_Name": "EmpireSolider",
+			"shell_Type": "bullet",
+			"shell_Damage": 1,
+			"attack_Speed": 0.2,
+			"attack_Priority": "AllianceSolider,AllianceHarvester,AllianceMissileCar,AllianceTank,AllianceBuilding",
+			"maxDetectable_Range": 120
+		},
+		{
+			"unit_Name": "EmpireTank",
+			"shell_Type": "shell",
+			"shell_Damage": 12.5,
+			"attack_Speed": 2,
+			"attack_Priority": "AllianceTank,AllianceMissileCar,AllianceHarvester,AllianceSolider,AllianceBuilding",
+			"maxDetectable_Range": 120
+		},
+		{
+			"unit_Name": "EmpireAirShip",
+			"shell_Type": "bullet",
+			"shell_Damage": 5,
+			"attack_Speed": 0.2,
+			"attack_Priority": "AllianceAirShip,AllianceTank,AllianceMissileCar,AllianceHarvester,AllianceSolider,AllianceBuilding",
+			"maxDetectable_Range": 120
+		}
+
+	]
+}
